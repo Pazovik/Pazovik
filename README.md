@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Pazovik
+- 👀 I’m interested in Avia, programming and Arduino
+- 🌱 I’m currently learning Python, Arduino, C++
+- 💞️ I’m looking to collaborate on cool projects 
+- 📫 How to reach me using discord 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Im Russian
